@@ -1,0 +1,200 @@
+From egovernment-newsletter at bat.berlios.de  Thu Oct 25 16:12:57 2007
+From: egovernment-newsletter at bat.berlios.de (egovernment-newsletter at bat.berlios.de)
+Date: Thu, 25 Oct 2007 16:12:57 +0200 (CEST)
+Subject: [Egovernment-newsletter] E-Government Newsletter for Thursday,
+	25th 2007f October 2007, 16:12:57 CEST
+Message-ID: <200710251412.l9PECvdq003483@unicorn.berlios.de>
+
+E-Government Newsletter
+----------------------
+
+Newsletter Kommune21 - Ausgabe 2007-10-25
+
+news at kommune21.de
+-----------------------
+Der Newsletter zu allen kommunalen Themen rund
+um E-Government, Internet und Informationstechnik
+Ausgabe vom Donnerstag, 25. Oktober 2007
+
+Inhalt:
+------
+1. Coburg: Online-Boerse der guten Taten
+http://www.kommune21.de/meldung.php?xid=6994n
+2. Bremerhaven: Online ins Archiv
+http://www.kommune21.de/meldung.php?xid=6992n
+3. Calw: Vermessung mit Adlerauge
+http://www.kommune21.de/meldung.php?xid=6991n
+4. Behoerdenkontakte: Internet-Nutzer greifen zum Telefon
+http://www.kommune21.de/meldung.php?xid=6988n
+5. Dortmund: Digitales Liegenschaftskataster
+http://www.kommune21.de/meldung.php?xid=6982n
+6. E-Government: Niedersaechsische Kooperation
+http://www.kommune21.de/meldung.php?xid=6981n
+7. CC e-gov: Siegel vom Datenschutz
+http://www.kommune21.de/meldung.php?xid=6979n
+8. E-Government 2.0: Umfrage zu E-Partizipation
+http://www.kommune21.de/meldung.php?xid=6978n
+9. Nordrhein-Westfalen: Engagement fuer die 115
+http://www.kommune21.de/meldung.php?xid=6977n
+
+Information: http://www.kommune21.de/download/newsletter_2007-10-25.html
+
+--------------------
+
+BG: Launch of the eGovernment portal
+
+Date: 25 October 2007
+Country: Bulgaria
+Domain: eGovernment
+Topic: Interoperability and infrastructure, eServices for Business,
+eServices for Citizens
+
+The Bulgarian government recently launched the country?s eGovernment
+portal www.egov.bg. The new portal enables citizens to get on-line
+information about many public services as well as forms to download.
+
+Information: http://www.epractice.eu/document/4008
+
+--------------------
+
+DK: Increased focus on maturity in future Danish IT projects
+
+Date: 24 October 2007
+Country: Denmark
+Domain: eGovernment
+Topic: eProcurement
+
+On September 18 the Danish IT and Telecom Agency launched a new and
+improved standard contract for long-term IT projects - K02 - which
+formulates the demands of the ?IT maturity? of both the provider and the
+customer.
+
+Information: http://www.epractice.eu/document/4007
+
+--------------------
+
+EU: New eGovernment website launched
+
+Date: 22 October 2007
+Country: EU Institutions
+Domain: eGovernment
+Topic: Efficiency & Effectiveness, Benchmarking, Inclusive
+eGovernment, eIdentity and eSecurity, High Impact Services with
+pan-European scope, eParticipation, eDemocracy and eVoting
+
+The European Commission has released a new eGovernment website providing
+information on the Commission?s general policy lines in this area and on
+the various EU programmes supporting eGovernment development.
+
+Information: http://www.epractice.eu/document/4001
+
+--------------------
+
+FR: On-line consultation to reduce bureaucracy
+
+Date: 22 October 2007
+Country: France
+Domain: eGovernment
+Topic: eServices for Citizens, eParticipation, eDemocracy and eVoting
+
+France?s Minister for the Budget, Public Accounts and Administration,
+?ric Woerth, has launched an on-line open consultation aimed at
+collecting public proposals for the simplification of administrative
+procedures.
+
+Information: http://www.epractice.eu/document/3991
+
+--------------------
+
+SK/EU: eJustice for Slovakia
+
+Date: 22 October 2007
+Country: Slovakia, EU Institutions
+Domain: eGovernment
+Topic: Interoperability and infrastructure
+
+Slovak Minister of Justice, Stefan Harabin, has announced Slovakia?s
+intention to participate in the development of an integrated European
+eJustice portal and an information network containing data on lost or
+kidnapped children.
+
+Information: http://www.epractice.eu/document/4000
+
+--------------------
+
+AT: First eID card terminal
+
+Date: 22 October 2007
+Country: Austria
+Domain: eGovernment
+Topic: Interoperability and infrastructure, eIdentity and eSecurity
+
+An Austrian borough has taken delivery of the country?s first internet
+terminal with eID card functions.
+
+Information: http://www.epractice.eu/document/3992
+
+--------------------
+
+CH: Quantum leap for eVoting
+
+Date: 22 October 2007
+Country: Switzerland
+Domain: eGovernment
+Topic: eIdentity and eSecurity, eParticipation, eDemocracy and eVoting
+
+In a world first, Geneva is to use quantum cryptography for ballot data
+sent to the central government repository. Scheduled for the national
+parliamentary elections on 21 October, the experiment could lead to the
+first quantum communications network. The cryptography is claimed to be
+completely ?unhackable?.
+
+Information: http://www.epractice.eu/document/3993
+
+--------------------
+
+EE: Estonia as an eCountry
+
+Date: 22 October 2007
+Country: Estonia
+Domain: eGovernment
+Topic: Policy, User centric services, Interoperability and
+infrastructure, eServices for Business, eServices for Citizens
+
+In 2006, Estonia ranked second in Europe for ?eReadiness?, according to
+a survey conducted for the European Commission by Capgemini. This
+success is attributed in part to its ?open market? approach to the
+development of eServices, where each state authority or department is
+free to develop its own solutions as long as these are compatible with
+the rest of the system.
+
+Information: http://www.epractice.eu/document/3994
+
+--------------------
+
+EU: HPro ? A European identity card for health professionals
+
+Date: 22 October 2007
+Country: EU Institutions
+Domain: eHealth
+Topic: Policy
+
+A European Card for Health Professionals was officially launched at the
+European Parliament on 17 October 2007. The card is expected to
+facilitate the mobility of health professionals within Europe and
+reinforce patient security.
+
+Information: http://www.epractice.eu/document/3995
+
+--------------------
+
+You get this E-Government newsletter,
+because you have subscribed to the mailing list
+egovernment-newsletter at lists.berlios.de.
+To unsubscribe from this mailing list,
+send a message by email to
+egovernment-newsletter-request at lists.berlios.de
+with \"unsubscribe <password>\" as subject or visit
+https://lists.berlios.de/mailman/listinfo/egovernment-newsletter
+
+

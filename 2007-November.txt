@@ -1,0 +1,275 @@
+From egovernment-newsletter at bat.berlios.de  Mon Nov  5 15:30:14 2007
+From: egovernment-newsletter at bat.berlios.de (egovernment-newsletter at bat.berlios.de)
+Date: Mon, 5 Nov 2007 15:30:14 +0100 (CET)
+Subject: [Egovernment-newsletter] E-Government Newsletter for Monday,
+	05th 2007f November 2007, 15:30:14 CET
+Message-ID: <200711051430.lA5EUEa4009561@unicorn.berlios.de>
+
+E-Government Newsletter
+----------------------
+
+Einladung zum egov-day 2008 in Koblenz
+
+Aufruf zur Teilnahme am
+
+3. egov-day in Koblenz --> http://www.egov-network.org
+
+Termin:
+Dienstag, 29. Januar 2008
+
+Ort:
+Historischer Rathaussaal zu Koblenz
+Jesuitenplatz 2
+56068 Koblenz
+Parkm?glichkeit: G?rres-Tiefgarage
+Alle Details, eine Anfahrtsskizze sowie Hotelinformationen finden Sie unter:
+http://www.egov-network.org
+
+Programm:
+ab 08:45 Registrierung
+09:00 Warm-Up bei Kaffee & Tee sowie Croissants
+
+09:30 Begr??ung: Prof. Dr. J. Felix Hampe, Universit?t Koblenz-Landau
+09:40 Gru?wort des Oberb?rgermeisters Dr. Schulte Wissermann
+
+Session I: Innovative Anwendungen und Prozesse
+Moderation: Prof. Dr. Maria A. Wimmer, Universit?t Koblenz-Landau
+10:00 FinanzOnline: ?sterreichs integrierte e-Taxation-Plattform
+Josef Makolm, Bundesministerium f?r Finanzen, ?sterreich
+10:30 Nutzen- und bedarfsgetriebene eGovernment-Gesch?ftsstrategien
+Armin M?ller, Abteilung 3,
+Ministerium f?r Umwelt, Forsten und Verbraucherschutz, RLP
+
+11:00 Kommunikationspause mit Kaffee & Tee
+
+Session II: Technische Entwicklungen
+Moderation: Prof. Dr. R?diger Grimm, Universit?t Koblenz-Landau
+11:30 Vertrauen in elektronische Identit?ten:
+Abkehr beim eGovernment von hierarchischen Trust-Model
+Arno Fiedler, Nimbus Technologieberatung GmbH
+12:00 Mobile Government in der Stadtverwaltung Stuttgart:
+Ein Erfahrungsbericht
+Ralf Armbruster, Leiter Kompetenzzentrum eGovernment,
+Landeshauptstadt Stuttgart
+
+12:30 Kommunikationspause mit Fitness-Lunch
+
+Session III:Telekommunikation f?r die B?rgerinteraktion
+Moderation: Prof. Dr. Engel, CIO, Stadt K?ln
+13:30 Das Deutschland-Online Projekt beh?rdeneinheitliche Rufnummer 115:
+Zielsetzung,Sachstand, weitere Schritte
+Roland Waubert de Puiseau, HZD, Hessen
+14:00 Modellvorhaben -115- in RLP
+Otmar Henzgen, Ministerium des Inneren und f?r Sport des Landes RLP
+14:30 Communication Center Dienstleistung f?r die Region K?ln:
+Erfahrungen aus der Praxis
+Frank Perkhoff, Stadt K?ln
+
+15:00 Kommunikationspause mit Kaffe & Tee sowie Kuchen vom Blech
+
+Session IV: Projektmanagement im eGovernment
+Moderation: Prof. Dr. J. Felix Hampe, Universit?t Koblenz-Landau
+15:30 Change Management im Verwaltungsbereich:
+Erfahrungen beim SAP roll-out an den hessischen Hochschulen
+Bernd H?hmann, Kanzler a.D. der Philipps-Universit?t Marburg
+16:00 Herkules: Restrukturierung von gro?en Verwaltungsstrukturen
+- IT als Katalysator?
+Bernward M?ser, Leitender Baudirektor IT-AmtBw
+16:30 Abschlie?ende Diskussion der Vortragenden und Teilnehmer
+
+17:00 Ende der Veranstaltung
+
+Teilnahmekonditionen:
+Der Kostenbeitrag f?r den egov-day 2008 betr?gt 39,- Euro.
+
+Anmeldungen bitte
+Online : http://www.egov-network.org
+per Fax: 0261 / 287-2521
+Bankverbindung: SpardaBank S?dwest eG
+Kontonummer : 3044 91 980
+Bankleitzahl : 550 905 00
+Kontoinhaber : Dr. Klaus Troitzsch EGOV
+Die Anmeldung ist erst nach Zahlungseingang verbindlich!
+
+Veranstalter und Koordination:
+Universit?t Koblenz-Landau, Institut f?r Wirtschafts- und
+Verwaltungsinformatik
+Prof. Dr. J. Felix Hampe, http://iwvi.uni-koblenz.de
+und
+IT.Stadt Koblenz:
+Dr. J?rgen Czielinski
+http://www.itstadt-koblenz.de/
+
+Organisation und Kontaktadresse f?r R?ckfragen:
+Fr. Petra Kochwasser
+Universit?t Koblenz-Landau, FB4, IWVI, Universit?tsstra?e 1, 56070 Koblenz
+Phone: 0261 / 287-2520 Fax: 0261 / 287-2521
+email: mailto:kochwasser at uni-koblenz.de
+
+--------------------
+
+LT: Electronic signatures on the move in Lithuania
+
+Date: 2 November 2007
+Country: Lithuania
+Domain: eGovernment
+Topic: Interoperability and infrastructure, eIdentity and eSecurity,
+eServices for Citizens
+
+A special government-backed multi-stakeholder programme has developed a
+special eSignature which Lithuanians can use for electronic signatures
+using their mobile phones.
+
+Information: http://www.epractice.eu/document/4029
+
+--------------------
+
+PL: Poles get on-line wedding planner
+
+Date: 2 November 2007
+Country: Poland
+Domain: eGovernment
+Topic: Regional and Local, eServices for Citizens
+
+Polish couples can now book their wedding dates on-line at the Zielona
+G?ra Registry Office.
+
+Information: http://www.epractice.eu/document/4030
+
+--------------------
+
+SI: Birthday treat for new Slovenian parents
+
+Date: 2 November 2007
+Country: Slovenia
+Domain: eGovernment
+Topic: eIdentity and eSecurity, eServices for Citizens
+
+Three Slovenian hospitals have introduced eNotifications of births, as
+part of a new pilot system which will be rolled out to more maternity
+wards in the future.
+
+Information: http://www.epractice.eu/document/4031
+
+--------------------
+
+EU: eInvoicing Expert Group set up
+
+Date: 2 November 2007
+Country: EU Institutions
+Domain: eGovernment
+Topic: Interoperability and infrastructure, eProcurement
+
+The European Commission adopted on 31 October a decision setting up an
+Expert Group on Electronic Invoicing (eInvoicing). A call for
+applications for those wishing to become members of the group is annexed
+to the decision, together with the terms of reference. The deadline for
+applications is 30 November.
+
+Information: http://www.epractice.eu/document/4027
+
+--------------------
+
+EE: New one-stop portal for Estonia
+
+Date: 2 November 2007
+Country: Estonia
+Domain: eGovernment
+Topic: User centric services, Interoperability and infrastructure,
+eServices for Business, eServices for Citizens
+
+The Estonian State portal is planning to merge the former State
+Information portal and Citizen portal to create a single integrated
+service. Access to information on the new portal will depend on whether
+the user is a citizen, entrepreneur or state official.
+
+Information: http://www.epractice.eu/document/4028
+
+--------------------
+
+Newsletter Kommune21 - Ausgabe 2007-10-31
+
+news at kommune21.de
+-----------------------
+Der Newsletter zu allen kommunalen Themen rund
+um E-Government, Internet und Informationstechnik
+Ausgabe vom Mittwoch, 31. Oktober 2007
+
+Inhalt:
+------
+1. Studie: Buergerbuero als Rueckgrat der Verwaltung
+http://www.kommune21.de/meldung.php?xid=7013n
+2. Auszeichnung: Preis fuer Kreis Osnabrueck
+http://www.kommune21.de/meldung.php?xid=7012n
+3. Erlangen: Kommune zum Vorzeigen
+http://www.kommune21.de/meldung.php?xid=7011n
+4. Bochum: Kontrolle am Bau
+http://www.kommune21.de/meldung.php?xid=7010n
+5. Region Rhein-Neckar: Einheitliche E-Strategie geplant
+http://www.kommune21.de/meldung.php?xid=7007n
+6. D-Trust: Mehr Sicherheit fuer E-Signatur
+http://www.kommune21.de/meldung.php?xid=7006n
+7. Berlin: Umweltzonen online erfragen
+http://www.kommune21.de/meldung.php?xid=7002n
+8. T-City: Teilnehmer vernetzen
+http://www.kommune21.de/meldung.php?xid=7000n
+9. Vitako: Orientierung im Vergabedschungel
+http://www.kommune21.de/meldung.php?xid=6999n
+
+Information: http://www.kommune21.de/download/newsletter_2007-10-31.html
+
+--------------------
+
+DE: eParticipation survey
+
+Date: 29 October 2007
+Country: Germany
+Domain: eGovernment
+Topic: eParticipation, eDemocracy and eVoting
+
+The German Interior Ministry has launched an on-line user survey on
+eParticipation.
+
+Information: http://www.epractice.eu/document/4014
+
+--------------------
+
+ES: Electronic invoicing boost
+
+Date: 29 October 2007
+Country: Spain
+Domain: eGovernment
+Topic: eIdentity and eSecurity, eProcurement
+
+A new Spanish ministerial order aims to standardise and promote
+electronic invoicing for public contracts.
+
+Information: http://www.epractice.eu/document/4015
+
+--------------------
+
+DE: Signing for safety
+
+Date: 29 October 2007
+Country: Germany
+Domain: eInclusion
+Topic: eAccessibility, (public) e-services for disadvantaged people
+
+Police in the German state of Rheinland-Pfalz have added sign language
+to their website. People with hearing difficulties can now download a
+range of crime-prevention clips with signing.
+
+Information: http://www.epractice.eu/document/4016
+
+--------------------
+
+You get this E-Government newsletter,
+because you have subscribed to the mailing list
+egovernment-newsletter at lists.berlios.de.
+To unsubscribe from this mailing list,
+send a message by email to
+egovernment-newsletter-request at lists.berlios.de
+with \"unsubscribe <password>\" as subject or visit
+https://lists.berlios.de/mailman/listinfo/egovernment-newsletter
+
+
